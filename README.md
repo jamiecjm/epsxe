@@ -6,7 +6,7 @@ homebrew epsxe
 
 Install epsxe using [homebrew](http://brew.sh).
 
-<pre><code>brew tap shy07/homebrew-epsxe
+<pre><code>brew tap jamiecjm/homebrew-epsxe
 brew install epsxe</code></pre>
 
 ## Usage
